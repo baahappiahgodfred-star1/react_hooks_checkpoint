@@ -107,4 +107,4 @@ http://localhost:3000
 
 ## 👨‍💻 Author
 
-Project created by **Sylvestre** as part of the React Hooks Checkpoint.
+Project created by **Godfred** as part of the React Hooks Checkpoint.
